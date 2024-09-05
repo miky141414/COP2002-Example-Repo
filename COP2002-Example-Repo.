@@ -1,5 +1,6 @@
-test
+# creating a project for GITHUB
+#By Michael Sexton 
 
-
+print("COP2002 Fall 2030")
 
 ("I'm understanding how to use gethub to keep treack of changes")
